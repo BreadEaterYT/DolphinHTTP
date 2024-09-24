@@ -33,13 +33,6 @@ if you wish to use another port than 80 then use the --port argument, else if yo
 
 Version 1.1.0 coming near October 5th 2024 at 3:30pm
 
-### Release Types definitions
-- Alpha: A version with alpha as phase is a version that isn't entirely done and still in a development state, released to permit the community to test the new features
-- Beta: A version with beta as phase is a version that is done but might have some bugs
-- Release: A version with release as phase is a version that is entirely done
-
-These definitions are for this project, the definitions might not be same as other projects
-
 ### Notes
 SSL/TLS is not currently supported, use in production at your own risks !
 
