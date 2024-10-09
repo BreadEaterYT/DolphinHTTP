@@ -31,7 +31,7 @@ if you wish to use another port than 80 then use the --port argument, else if yo
 |  1.0.0  | Alpha |    ✅    | October 12th 2024 |
 |  1.1.0  |   -   |    -    |         -         |
 
-Version 1.1.0 coming near October 5th 2024 at 3:30pm
+Version 1.1.0 coming near October 12th 2024 at 3:30pm
 
 ### Notes
 SSL/TLS is not currently supported, use in production at your own risks !
